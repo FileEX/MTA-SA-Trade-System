@@ -1,0 +1,19 @@
+<meta>
+	<script src="utils.lua" type="shared" cache="false" />
+	<script src="cfg.lua" type="shared" cache="false" />
+	<script src="trades_class.lua" type="client" cache="false" />
+	<script src="trades_c.lua" type="client" cache="false" />
+	<script src="trades_s.lua" />
+
+	<file src="i/add_hover.png" />
+	<file src="i/bg.png" />
+	<file src="i/box.png" />
+	<file src="i/btn_accept.png" />
+	<file src="i/btn_decline.png" />
+	<file src="i/car.png" />
+	<file src="i/house.png" />
+	<file src="i/PLN.png" />
+	<file src="i/pp.png" />
+
+	<oop>true</oop>
+</meta>
